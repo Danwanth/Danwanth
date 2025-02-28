@@ -13,9 +13,6 @@
 📫 How to reach me: Email me at danwanth@gmail.com or connect with me on LinkedIn!
 
 
-😄 Pronouns: He/Him
-
-
 ⚡ Fun fact: I love solving puzzles and breaking down complex problems into simple solutions!
 
 <!---
