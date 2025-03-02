@@ -10,7 +10,7 @@
 💞️ I’m looking to collaborate on software engineering projects, cybersecurity challenges, and open-source contributions
 
 
-📫 How to reach me: Email me at danwanth@gmail.com or connect with me on LinkedIn!
+📫 How to reach me: Email me at danwanthyog@gmail.com or connect with me on LinkedIn!
 
 
 ⚡ Fun fact: I love solving puzzles and breaking down complex problems into simple solutions!
