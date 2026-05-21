@@ -1,21 +1,114 @@
-👋 Hi, I’m @Danwanth
+# Hi, I'm Danwanth Yogesh
 
+### AI/ML Enthusiast • Full-Stack Developer • Computer Science Undergraduate
 
-👀 I’m interested in coding, building projects, and exploring cybersecurity
+I’m a Computer Science student passionate about building intelligent software systems, AI-powered applications, and scalable backend solutions.
+My primary interests are in:
 
+* Artificial Intelligence & Machine Learning
+* Data Science & Predictive Analytics
+* Full-Stack Development
+* Cybersecurity & Secure Systems
+* Cloud Computing
 
-🌱 I’m currently learning full-stack development, cloud computing, and ethical hacking
+---
 
+## What I’m Currently Exploring
 
-💞️ I’m looking to collaborate on software engineering projects, cybersecurity challenges, and open-source contributions
+* Machine Learning model development and optimization
+* AI integrations in real-time web applications
+* Backend engineering with Flask and databases
+* Full-stack systems using React and Supabase
+* Ethical hacking and security fundamentals
 
+---
 
-📫 How to reach me: Email me at danwanthyog@gmail.com or connect with me on LinkedIn!
+## Featured Projects
 
+### 🧠 Kards — AI-Powered Anonymous Platform
 
-⚡ Fun fact: I love solving puzzles and breaking down complex problems into simple solutions!
+A real-time anonymous discussion platform featuring:
 
-<!---
-Danwanth/Danwanth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+* AI-generated chat summaries
+* Smart AI reply suggestions
+* Realtime messaging architecture
+* Interactive card-based UI
+
+**Tech Stack:** React, Supabase, OpenRouter API
+
+---
+
+### 📊 Customer Churn Prediction System
+
+Machine learning project focused on predicting customer churn using:
+
+* Ensemble learning techniques
+* Feature engineering
+* Model evaluation & visualization
+* Statistical performance analysis
+
+**Tech Stack:** Python, Scikit-learn, Pandas, Matplotlib
+
+---
+
+### 🚗 ReturnLoop — Smart Carpooling Platform
+
+Hackathon-winning ride-sharing platform designed for efficient ride coordination and scalable backend management.
+
+**Tech Stack:** Flask, MySQL
+
+🏆 Winner — HackSUS Hackathon 2025
+
+---
+
+## Tech Stack
+
+### Languages
+
+Python • SQL • Java • C
+
+### AI / Data Science
+
+Scikit-learn • Pandas • NumPy • Matplotlib • Seaborn
+
+### Development
+
+React • Flask • REST APIs • Supabase • MySQL
+
+### Tools
+
+Git • VS Code • Google Colab • Wireshark • XAMPP
+
+---
+
+## Currently Learning
+
+* Advanced Machine Learning
+* Cloud Computing
+* System Design
+* Secure Application Development
+* Data Structures & Algorithms
+
+---
+
+## Open to Collaborate On
+
+* AI/ML projects
+* Full-stack applications
+* Open-source contributions
+* Hackathons
+* Data-driven software systems
+
+---
+
+## Connect With Me
+
+📧 Email: [danwanthyog@gmail.com](mailto:danwanthyog@gmail.com)
+💼 LinkedIn: linkedin.com/in/danwanth-yogesh-822563291
+🌐 GitHub: github.com/Danwanth
+
+---
+
+### Fun Fact
+
+I enjoy breaking down complex problems into simple, scalable solutions — whether it's in AI models or software systems.
