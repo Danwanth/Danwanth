@@ -38,6 +38,23 @@ A real-time anonymous discussion platform featuring:
 
 ---
 
+### 📈 Car Price Predictor
+
+A machine learning application that predicts car prices based on multiple vehicle attributes using regression models and data preprocessing techniques.
+
+Features include:
+
+* Data cleaning and feature engineering
+* Predictive regression modeling
+* Model evaluation and accuracy analysis
+* Interactive prediction workflow
+
+**Tech Stack:** Python, Scikit-learn, Pandas, NumPy
+
+🔗 github.com/Danwanth/Car-Price-Predictor
+
+---
+
 ### 📊 Customer Churn Prediction System
 
 Machine learning project focused on predicting customer churn using:
@@ -48,16 +65,6 @@ Machine learning project focused on predicting customer churn using:
 * Statistical performance analysis
 
 **Tech Stack:** Python, Scikit-learn, Pandas, Matplotlib
-
----
-
-### 🚗 ReturnLoop — Smart Carpooling Platform
-
-Hackathon-winning ride-sharing platform designed for efficient ride coordination and scalable backend management.
-
-**Tech Stack:** Flask, MySQL
-
-🏆 Winner — HackSUS Hackathon 2025
 
 ---
 
