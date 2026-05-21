@@ -51,8 +51,6 @@ Features include:
 
 **Tech Stack:** Python, Scikit-learn, Pandas, NumPy
 
-🔗 github.com/Danwanth/Car-Price-Predictor
-
 ---
 
 ### 📊 Customer Churn Prediction System
